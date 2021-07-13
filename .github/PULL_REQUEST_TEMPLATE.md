@@ -1,7 +1,8 @@
----
-name: link-submission
-about: 提交链接模版
----
+<!-- Thanks for contributing! -->
+
+<!-- Before you start on a large rewrite or other major change: open a new issue first, to discuss the proposed changes. -->
+
+<!-- Should your changes appear in a printed edition, you'll be included in the contributors list. -->
 
 ## 添加友联
 
@@ -16,6 +17,8 @@ about: 提交链接模版
 4.博主会不定期回访友链，如果你的站点超过30天无法正常访问，将会取消友链直到你重新提交。
 
 请在下面的清单中勾选相关事项:
+
+<!-- Mark the checkbox [X] or [x] if you agree with the item. -->
 
 - [ ] 有一个完整的站点名称
 
