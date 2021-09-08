@@ -4,7 +4,7 @@
 
 <!-- Should your changes appear in a printed edition, you'll be included in the contributors list. -->
 
-## 添加友联
+## 添加友链
 
 在提交友链之前，请确保你已阅读`README.md`和以下相关信息要求，如果提交不符合自述文件中提到的标准，它将被关闭。
 
@@ -24,4 +24,4 @@
 
 - [ ] 有一个可以正常访问的站点链接
 
-- [ ] 已添加本站点信息到你到网站
+- [ ] 已添加本站点信息到你的网站
